@@ -5,8 +5,8 @@ For security reports, legal matters, or other confidential correspondence:
 📧 security.unplanned639@passinbox.com  
 🔑 PGP: [keys.openpgp.org](https://keys.openpgp.org/search?q=security.unplanned639@passinbox.com)
 
-> PIf you use an email service that supports end-to-end encryption (such as Proton or Tuta), you can send your message without using PGP.
-> 
+> If you use an email service that supports end-to-end encryption (such as Proton or Tuta), you can send your message without using PGP.
+
 > If you are using an email service that does not support end-to-end encryption, please encrypt your message using PGP.
 
 For everything else, GitHub discussions or issues are fine.
