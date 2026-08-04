@@ -9,4 +9,4 @@ For security reports, legal matters, or other confidential correspondence:
 
 > If you are using an email service that does not support end-to-end encryption, please encrypt your message using PGP.
 
-For everything else, GitHub discussions, issues or Instagram DM are fine.
+For everything else, GitHub discussions, issues, or Instagram DM are fine.
