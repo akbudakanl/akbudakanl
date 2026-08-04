@@ -2,8 +2,8 @@
 
 For security reports, legal matters, or other confidential correspondence:
 
-📧 security.unplanned639@passinbox.com  
-🔑 PGP: [keys.openpgp.org](https://keys.openpgp.org/search?q=security.unplanned639@passinbox.com)
+[![Security Contact](https://img.shields.io/badge/Security%20Contact-Email-critical?style=flat-square&logo=protonmail)](mailto:security.unplanned639@passinbox.com)
+[![PGP Key](https://img.shields.io/badge/PGP-Key-blue?style=flat-square&logo=gnuprivacyguard)](https://keys.openpgp.org/search?q=security.unplanned639@passinbox.com)
 
 > If you use an email service that supports end-to-end encryption (such as Proton, Tuta, etc.), you can send your message without using PGP.
 
