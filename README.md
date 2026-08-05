@@ -8,7 +8,7 @@ For security reports, legal matters, or other confidential correspondence:
 > [!NOTE]
 > Please encrypt your message using PGP.
 > 
-> **Fingerprint:** `ABCD 1234 EF56 7890 GH12  3456 IJ78 90KL MN12 3456`
+> **Fingerprint:** `F46C 0F0B D707 0F79 907E 4D85 25D5 F85B 8362 7D9D`
 
 
 
