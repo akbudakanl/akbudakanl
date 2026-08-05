@@ -6,4 +6,4 @@ For security reports, legal matters, or other confidential correspondence:
 [![PGP Key](https://img.shields.io/badge/PGP-Key-blue?style=flat-square&logo=gnuprivacyguard)](https://keys.openpgp.org/search?q=security.unplanned639@passinbox.com)
 
 * **End-to-End Encrypted Email** (Proton, Tuta, etc.): Send directly without PGP.
-* **Standard Email** (Gmail, Outlook, etc.): Please encrypt your message using PGP
+* **Standard Email** (Gmail, Outlook, etc.): Please encrypt your message using PGP.
