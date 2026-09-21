@@ -13,4 +13,4 @@ For security reports, legal matters, or other confidential correspondence:
 
 
 
-For everything else, GitHub discussions, issues, or Instagram DM are fine.
+For everything else, GitHub discussions or issues are fine
